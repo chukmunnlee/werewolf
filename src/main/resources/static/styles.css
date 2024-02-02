@@ -1,0 +1,11 @@
+.row {
+	display: grid;
+	grid-template-rows: auto auto;
+	row-gap: 1em;
+}
+
+.form-field {
+	display: grid;
+	grid-template-columns: 1fr 5fr
+}
+
